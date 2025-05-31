@@ -127,7 +127,7 @@
 
 | 🚀 Proyecto | 🔎 Descripción |
 |------------|----------------|
-| [`CTF-Writeups`](https://github.com/tuusuario/CTF-Writeups)     | Soluciones detalladas de máquinas THM & HTB |
+| [`CTF-Writeups`](https://github.com/DLK2236/CTF-Writeups)     | Soluciones detalladas de máquinas THM & HTB |
 
 ---
 
