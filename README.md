@@ -134,8 +134,8 @@
 ## 📊 Stats & Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DLK2236&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLK2236&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <br clear="both">
